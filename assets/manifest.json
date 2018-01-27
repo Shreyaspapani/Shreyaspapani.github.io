@@ -1,7 +1,14 @@
 {
-    "short_name": "Kinlan's Amaze App",
-    "name": "Kinlan's Amazing Application ++",
-    "start_url": "/index.html",
-    "display": "standalone",
-    "orientation": "portrait"
-  }
+  "short_name": "Rock",
+  "name": "ICCCRnd",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color":"#ffffff",
+  "theme_color":"#2196F3",
+  "icons": [{
+    "src": "/assets/img/logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}

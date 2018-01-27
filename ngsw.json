@@ -7,7 +7,6 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/favicon.ico",
         "/index.html",
         "/inline.85b5fc37c53fc19a0638.bundle.js",
         "/main.be63c2db7d9d969dd837.bundle.js",
@@ -22,20 +21,46 @@
       "updateMode": "prefetch",
       "urls": [
         "/assets/manifest.json",
-        "/assets/img/logo.jpg"
+        "/assets/img/logo.png",
+        "/assets/img/logo256x256.png"
       ],
       "patterns": []
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "api-freshness",
+      "patterns": [
+        "\\/new"
+      ],
+      "strategy": "freshness",
+      "maxSize": 100,
+      "maxAge": 3600000,
+      "timeoutMs": 10000,
+      "version": 1
+    },
+    {
+      "name": "api-performance",
+      "patterns": [
+        "\\/",
+        "\\/jobs",
+        "\\/show",
+        "\\/ask"
+      ],
+      "strategy": "performance",
+      "maxSize": 100,
+      "maxAge": 14400000,
+      "version": 1
+    }
+  ],
   "hashTable": {
     "/inline.85b5fc37c53fc19a0638.bundle.js": "9c5b5eb5c5e249b6c9dfb478d581b5d5ef9f1ca8",
-    "/assets/manifest.json": "3e41e7733e98630b72bef858d4ebe888bb96f8c3",
+    "/assets/manifest.json": "50079e6eee708ce8bf204f01dd86db290d372461",
     "/main.be63c2db7d9d969dd837.bundle.js": "e0aef08fa8abe15417f577998cd0a32acf88a5df",
-    "/assets/img/logo.jpg": "033f02fc3ac719ec989581ffe6dbdb79d009a279",
+    "/assets/img/logo.png": "bfc2f78dcea45b8dca6d2a9d101501276fe5e29f",
     "/polyfills.f20484b2fa4642e0dca8.bundle.js": "0b0af365e031b7cbba789493d311e94192720c68",
+    "/assets/img/logo256x256.png": "dd70d3d5fd1e0db890fb2014457b2bf245ce7512",
     "/styles.e2a02fe97f974d1f5c8e.bundle.css": "59c8708df8c422d92e33bfc518beba70c9efc4e8",
-    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "a460d3d30fd020f28daec2db600732daeb4148ff"
+    "/index.html": "f23ec6e5b3e00f7bd166be0ef83511ccad6e40a1"
   }
 }
