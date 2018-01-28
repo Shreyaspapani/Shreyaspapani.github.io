@@ -8,8 +8,8 @@
       "updateMode": "prefetch",
       "urls": [
         "/index.html",
-        "/inline.85b5fc37c53fc19a0638.bundle.js",
-        "/main.be63c2db7d9d969dd837.bundle.js",
+        "/inline.e3ff2061c487a8b0fdd0.bundle.js",
+        "/main.226586bc67088bda410a.bundle.js",
         "/polyfills.f20484b2fa4642e0dca8.bundle.js",
         "/styles.e2a02fe97f974d1f5c8e.bundle.css"
       ],
@@ -54,13 +54,13 @@
     }
   ],
   "hashTable": {
-    "/inline.85b5fc37c53fc19a0638.bundle.js": "9c5b5eb5c5e249b6c9dfb478d581b5d5ef9f1ca8",
-    "/assets/manifest.json": "50079e6eee708ce8bf204f01dd86db290d372461",
-    "/main.be63c2db7d9d969dd837.bundle.js": "e0aef08fa8abe15417f577998cd0a32acf88a5df",
+    "/inline.e3ff2061c487a8b0fdd0.bundle.js": "8a5f97d99a79ebcbef3f863fbcac40192c3e3010",
+    "/assets/manifest.json": "a8d398dcb06c870154b6ae6873e031b4b722bb26",
+    "/main.226586bc67088bda410a.bundle.js": "dc9285097c359f38a6375be178f13f0b4925183c",
     "/assets/img/logo.png": "bfc2f78dcea45b8dca6d2a9d101501276fe5e29f",
     "/polyfills.f20484b2fa4642e0dca8.bundle.js": "0b0af365e031b7cbba789493d311e94192720c68",
     "/assets/img/logo256x256.png": "dd70d3d5fd1e0db890fb2014457b2bf245ce7512",
     "/styles.e2a02fe97f974d1f5c8e.bundle.css": "59c8708df8c422d92e33bfc518beba70c9efc4e8",
-    "/index.html": "f23ec6e5b3e00f7bd166be0ef83511ccad6e40a1"
+    "/index.html": "98a63c172193580542d118666ff14d088c23fde4"
   }
 }
