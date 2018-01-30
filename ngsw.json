@@ -8,10 +8,10 @@
       "updateMode": "prefetch",
       "urls": [
         "/index.html",
-        "/inline.9b9c775e9f7425e14a2d.bundle.js",
-        "/main.1dc6e15753cba502a732.bundle.js",
-        "/polyfills.f20484b2fa4642e0dca8.bundle.js",
-        "/styles.e2a02fe97f974d1f5c8e.bundle.css"
+        "/inline.f2a86b4862fbf44ecabe.bundle.js",
+        "/main.e1d175ed7146b06552a1.bundle.js",
+        "/polyfills.fb8ad884215c65546efb.bundle.js",
+        "/styles.9024e8b5e231b748f6e5.bundle.css"
       ],
       "patterns": []
     },
@@ -21,8 +21,14 @@
       "updateMode": "prefetch",
       "urls": [
         "/assets/manifest.json",
-        "/assets/img/logo.png",
-        "/assets/img/logo256x256.png"
+        "/assets/fonts/Actor-Regular.ttf",
+        "/assets/images/bg.jpg",
+        "/assets/images/logo.png",
+        "/assets/images/logo256x256.png",
+        "/assets/images/pass.png",
+        "/assets/images/user.png",
+        "/assets/images/background/login.jpg",
+        "/assets/images/logo/honeywell.png"
       ],
       "patterns": []
     }
@@ -54,13 +60,19 @@
     }
   ],
   "hashTable": {
-    "/inline.9b9c775e9f7425e14a2d.bundle.js": "2e3ce1df2a79b7e15b1763e341a9628395fcc83a",
-    "/assets/manifest.json": "a8d398dcb06c870154b6ae6873e031b4b722bb26",
-    "/main.1dc6e15753cba502a732.bundle.js": "1d92c3107c2fea9ec88adb2a85b68acee7c74889",
-    "/assets/img/logo.png": "bfc2f78dcea45b8dca6d2a9d101501276fe5e29f",
-    "/polyfills.f20484b2fa4642e0dca8.bundle.js": "0b0af365e031b7cbba789493d311e94192720c68",
-    "/assets/img/logo256x256.png": "dd70d3d5fd1e0db890fb2014457b2bf245ce7512",
-    "/styles.e2a02fe97f974d1f5c8e.bundle.css": "59c8708df8c422d92e33bfc518beba70c9efc4e8",
-    "/index.html": "d21ed005ceb8a106cb17b3676790563078726f21"
+    "/inline.f2a86b4862fbf44ecabe.bundle.js": "d6fd4380d48fda931309404f6649bc8137fdd8c6",
+    "/assets/manifest.json": "b9d5131ac7d970b02ad00cfa6bc54e01dfa96d37",
+    "/main.e1d175ed7146b06552a1.bundle.js": "5677bf667baf1ce6b8238b1e4488f9c0f5624ae3",
+    "/assets/fonts/Actor-Regular.ttf": "3aaf54c2d64dbb1ff513444def37baee8ec75410",
+    "/polyfills.fb8ad884215c65546efb.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
+    "/assets/images/bg.jpg": "1467a48661bb50045ec2001f5bdaeca75ed7c827",
+    "/styles.9024e8b5e231b748f6e5.bundle.css": "b9f229e52e833b92731c418d17c70eed1cdf9ef0",
+    "/assets/images/logo.png": "bfc2f78dcea45b8dca6d2a9d101501276fe5e29f",
+    "/index.html": "94b142c9ee1066a733ac4e4369ac51adf06c5808",
+    "/assets/images/logo256x256.png": "dd70d3d5fd1e0db890fb2014457b2bf245ce7512",
+    "/assets/images/pass.png": "dc5cbe2b67e5fa0854c840fff05950d355a741c3",
+    "/assets/images/user.png": "abf9fdebd28c9b279564d8f98a4f6a4cae7da957",
+    "/assets/images/background/login.jpg": "0191ff2d4056706f354137d9438d14f44984a8af",
+    "/assets/images/logo/honeywell.png": "5a12291f9643067f40a66dceefb9a2ea1740cf8c"
   }
 }
