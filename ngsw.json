@@ -8,10 +8,11 @@
       "updateMode": "prefetch",
       "urls": [
         "/index.html",
-        "/inline.0691289e946e7e4d58b3.bundle.js",
-        "/main.c4a0a000628096bf675d.bundle.js",
-        "/polyfills.fb8ad884215c65546efb.bundle.js",
-        "/styles.660a6d0eec581a69b88e.bundle.css"
+        "/inline.735380ad748751fbcda7.bundle.js",
+        "/main.bb5b1c99f2743770cd56.bundle.js",
+        "/polyfills.16286cde992a53adbc8d.bundle.js",
+        "/scripts.7ee217c8c4cd3cd0a27d.bundle.js",
+        "/styles.05eed8915b8cfe261ebf.bundle.css"
       ],
       "patterns": []
     },
@@ -27,8 +28,26 @@
         "/assets/images/logo256x256.png",
         "/assets/images/pass.png",
         "/assets/images/user.png",
+        "/assets/images/background/home-bg.jpg",
         "/assets/images/background/login.jpg",
-        "/assets/images/logo/honeywell.png"
+        "/assets/images/icons/actiontaken.png",
+        "/assets/images/icons/alarm.png",
+        "/assets/images/icons/anpr.png",
+        "/assets/images/icons/cameraMarker.png",
+        "/assets/images/icons/fixed.png",
+        "/assets/images/icons/incident.png",
+        "/assets/images/icons/ptz.png",
+        "/assets/images/logo/honeywell.png",
+        "/assets/images/menu/energy.jpg",
+        "/assets/images/menu/lighting.jpg",
+        "/assets/images/menu/parking.jpg",
+        "/assets/images/menu/social.jpg",
+        "/assets/images/menu/surveillance.jpg",
+        "/assets/images/menu/traffic.jpg",
+        "/assets/images/menu/waste.jpg",
+        "/assets/images/menu/water-scada.jpg",
+        "/assets/images/menu/water.jpg",
+        "/assets/images/menu/wifi.jpg"
       ],
       "patterns": []
     }
@@ -60,19 +79,38 @@
     }
   ],
   "hashTable": {
-    "/inline.0691289e946e7e4d58b3.bundle.js": "0247f0394a8a695965732238af57e5030a9f48fd",
+    "/inline.735380ad748751fbcda7.bundle.js": "394cee884cda3cd68283a2637bd1e9bb16c06eac",
     "/assets/manifest.json": "b9d5131ac7d970b02ad00cfa6bc54e01dfa96d37",
-    "/main.c4a0a000628096bf675d.bundle.js": "91c5d4468c1c9d375a063f8910b95c114cc8f155",
+    "/main.bb5b1c99f2743770cd56.bundle.js": "8b895e22c552b1ad5ed2bf20ea6a50dadbf5bc48",
     "/assets/fonts/Actor-Regular.ttf": "3aaf54c2d64dbb1ff513444def37baee8ec75410",
-    "/polyfills.fb8ad884215c65546efb.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
+    "/polyfills.16286cde992a53adbc8d.bundle.js": "c7b365ef47db91a7d672881b233f740827cbc545",
     "/assets/images/bg.jpg": "1467a48661bb50045ec2001f5bdaeca75ed7c827",
-    "/styles.660a6d0eec581a69b88e.bundle.css": "06c96bf2a6b4f78efd5240b79a463f255edc4cda",
+    "/scripts.7ee217c8c4cd3cd0a27d.bundle.js": "975ad8e900319b71e900d28b92e65ad1f07b64c6",
     "/assets/images/logo.png": "bfc2f78dcea45b8dca6d2a9d101501276fe5e29f",
-    "/index.html": "58c7215e54f6ffd4ee6fdb4b84dccf8ab1e77e55",
+    "/styles.05eed8915b8cfe261ebf.bundle.css": "17a8e65a61919bde9edecdad17089492fa2ea46d",
     "/assets/images/logo256x256.png": "dd70d3d5fd1e0db890fb2014457b2bf245ce7512",
+    "/index.html": "5d85911bc2215a7f64b757f1de81b4d7e097b4db",
     "/assets/images/pass.png": "dc5cbe2b67e5fa0854c840fff05950d355a741c3",
     "/assets/images/user.png": "abf9fdebd28c9b279564d8f98a4f6a4cae7da957",
+    "/assets/images/background/home-bg.jpg": "74286bd79d0a7a37f9a16c377acbd87b06c09e70",
     "/assets/images/background/login.jpg": "0191ff2d4056706f354137d9438d14f44984a8af",
-    "/assets/images/logo/honeywell.png": "5a12291f9643067f40a66dceefb9a2ea1740cf8c"
+    "/assets/images/icons/actiontaken.png": "9ab712b31c4648ed0eb29da93a339401b62b678b",
+    "/assets/images/icons/alarm.png": "29dfbc4a2fc5bb592609089210581253926c66b9",
+    "/assets/images/icons/anpr.png": "d4b60d099a0e72bb11c8e7ae785708fb80564d5c",
+    "/assets/images/icons/cameraMarker.png": "78df9cd39b8dbd2427b9d149154c873d6f636e1c",
+    "/assets/images/icons/fixed.png": "e2a455799b08dd949bf404390c871d05a06acf3f",
+    "/assets/images/icons/incident.png": "17165bf24f1f7969e9499de3cc9683db9edad0cd",
+    "/assets/images/icons/ptz.png": "1a933a20a807458c3984d9f496be68d520eee1c4",
+    "/assets/images/logo/honeywell.png": "5a12291f9643067f40a66dceefb9a2ea1740cf8c",
+    "/assets/images/menu/energy.jpg": "1576c0ad42078f3001838179c619e8c4eb7dbbeb",
+    "/assets/images/menu/lighting.jpg": "9331f3a611a32eb4c4e305eff7ebac7d2e5135a4",
+    "/assets/images/menu/parking.jpg": "0b245aff681cad8e5bf8fc2d7692feb4fb17f347",
+    "/assets/images/menu/social.jpg": "96b6134cca66aa9d073f11b0d4bdcd83c211e36e",
+    "/assets/images/menu/surveillance.jpg": "4c1c39e63cdc49102888ebd91b5bd9b4dd87d315",
+    "/assets/images/menu/traffic.jpg": "cfb55bf2c65befb6183219e51694fadcdbab8b75",
+    "/assets/images/menu/waste.jpg": "94e467987df552c53a2dfc448db992a393ba4283",
+    "/assets/images/menu/water-scada.jpg": "bd46f0f7a2757d23fdf965424398626ac4210541",
+    "/assets/images/menu/water.jpg": "17d9e5993d9bfd1ee1dc840cdfe2e5a7581a3a9d",
+    "/assets/images/menu/wifi.jpg": "a25a60552085c7235efeee95a693bf5ec6fca189"
   }
 }
