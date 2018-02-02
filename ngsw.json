@@ -8,11 +8,11 @@
       "updateMode": "prefetch",
       "urls": [
         "/index.html",
-        "/inline.e59ea1ffa35139b26aab.bundle.js",
-        "/main.a3878c068fe75645121a.bundle.js",
+        "/inline.9c550e2abc480bcc5b81.bundle.js",
+        "/main.8d97b0bbe5c5a4eea824.bundle.js",
         "/polyfills.16286cde992a53adbc8d.bundle.js",
-        "/scripts.7ee217c8c4cd3cd0a27d.bundle.js",
-        "/styles.05eed8915b8cfe261ebf.bundle.css"
+        "/scripts.62b5e19faaf4e50d97af.bundle.js",
+        "/styles.1e083d41cf9a156b613a.bundle.css"
       ],
       "patterns": []
     },
@@ -47,7 +47,9 @@
         "/assets/images/menu/waste.jpg",
         "/assets/images/menu/water-scada.jpg",
         "/assets/images/menu/water.jpg",
-        "/assets/images/menu/wifi.jpg"
+        "/assets/images/menu/wifi.jpg",
+        "/assets/js/canvasjs.min.js",
+        "/assets/js/jquery.canvasjs.min.js"
       ],
       "patterns": []
     }
@@ -79,17 +81,17 @@
     }
   ],
   "hashTable": {
-    "/inline.e59ea1ffa35139b26aab.bundle.js": "1a54732ddbf7ba238ff82eece0d5a4e68815142f",
+    "/inline.9c550e2abc480bcc5b81.bundle.js": "408d5b0fee703572029822d467143164618424ba",
     "/assets/manifest.json": "b9d5131ac7d970b02ad00cfa6bc54e01dfa96d37",
-    "/main.a3878c068fe75645121a.bundle.js": "526d6e175223cdaf9f909a5b33a683dbd09c8ae8",
+    "/main.8d97b0bbe5c5a4eea824.bundle.js": "0b18781fbcd978c31cae24aafc0f4b1c370ede11",
     "/assets/fonts/Actor-Regular.ttf": "3aaf54c2d64dbb1ff513444def37baee8ec75410",
     "/polyfills.16286cde992a53adbc8d.bundle.js": "c7b365ef47db91a7d672881b233f740827cbc545",
     "/assets/images/bg.jpg": "1467a48661bb50045ec2001f5bdaeca75ed7c827",
-    "/scripts.7ee217c8c4cd3cd0a27d.bundle.js": "975ad8e900319b71e900d28b92e65ad1f07b64c6",
+    "/scripts.62b5e19faaf4e50d97af.bundle.js": "f8249515ca35dd0e7e48220f4c2ac80744833965",
     "/assets/images/logo.png": "bfc2f78dcea45b8dca6d2a9d101501276fe5e29f",
-    "/styles.05eed8915b8cfe261ebf.bundle.css": "17a8e65a61919bde9edecdad17089492fa2ea46d",
+    "/styles.1e083d41cf9a156b613a.bundle.css": "536cd84bfd9de3451ca606f8cd34a3e15eb3e82c",
     "/assets/images/logo256x256.png": "dd70d3d5fd1e0db890fb2014457b2bf245ce7512",
-    "/index.html": "16a908a73aca1900b60c90827be71cc46830e5c7",
+    "/index.html": "151417e692f2fcfd539e1db63732a5896ba3bcef",
     "/assets/images/pass.png": "dc5cbe2b67e5fa0854c840fff05950d355a741c3",
     "/assets/images/user.png": "abf9fdebd28c9b279564d8f98a4f6a4cae7da957",
     "/assets/images/background/home-bg.jpg": "74286bd79d0a7a37f9a16c377acbd87b06c09e70",
@@ -111,6 +113,8 @@
     "/assets/images/menu/waste.jpg": "94e467987df552c53a2dfc448db992a393ba4283",
     "/assets/images/menu/water-scada.jpg": "bd46f0f7a2757d23fdf965424398626ac4210541",
     "/assets/images/menu/water.jpg": "17d9e5993d9bfd1ee1dc840cdfe2e5a7581a3a9d",
-    "/assets/images/menu/wifi.jpg": "a25a60552085c7235efeee95a693bf5ec6fca189"
+    "/assets/images/menu/wifi.jpg": "a25a60552085c7235efeee95a693bf5ec6fca189",
+    "/assets/js/canvasjs.min.js": "4c13fb3a439e637646e637feec6601e006ec0f07",
+    "/assets/js/jquery.canvasjs.min.js": "d47255be3d66a5556172cc7603f5a7292b5a0c3b"
   }
 }
