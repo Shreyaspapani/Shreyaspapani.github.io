@@ -1,7 +1,7 @@
 {
   "short_name": "ICCC",
   "name": "ICCCRnd",
-  "start_url": "../index.html",
+  "start_url": "../",
   "display": "standalone",
   "orientation": "portrait",
   "background_color":"#ffffff",
